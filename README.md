@@ -7,5 +7,5 @@
 | **Division** | — |
 | **Batch** | C |
 | **Course Name** | BTECH ENTC |
-| **Academic Year** | 2026/27 |
+| **Academic Year** | 2026-27 |
 | **Faculty Name** | Dr. Varshaa Degaonkar |
